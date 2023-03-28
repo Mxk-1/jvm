@@ -6,7 +6,7 @@ package cn.itcast.jvm.t1.stringtable;
 public class TestString {
     public static void main(String[] args) {
         int x = args.length;
-        System.out.println(); // 字符串个数 2275
+        System.out.println(); // 字符串个数 2076
 
         System.out.print("1");
         System.out.print("2");
@@ -18,7 +18,7 @@ public class TestString {
         System.out.print("8");
         System.out.print("9");
         System.out.print("0");
-        System.out.print("1"); // 字符串个数 2285
+        System.out.print("1"); // 字符串个数 2086
         System.out.print("2");
         System.out.print("3");
         System.out.print("4");

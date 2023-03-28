@@ -12,6 +12,7 @@ public class Demo1_4 {
         System.out.println("2...");
         Thread.sleep(20000);
         array = null;
+        // 进行了一次垃圾回收
         System.gc();
         System.out.println("3...");
         Thread.sleep(1000000L);
